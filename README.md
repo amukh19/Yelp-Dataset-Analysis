@@ -27,3 +27,7 @@ This project uses SQL to analyze the Yelp dataset, focusing on customer reviews,
 - **Review Dataset**: Contains ~400,000 reviews, including review IDs, dates, and star ratings.
 - **Business Dataset**: Includes details about ~23,500 businesses, such as name, location, and categories.
 
+### Github Document Reference
+- For all SQL code --> "**SQL Code**" Folder
+- For PowerPoint Presentation of Findings/Analysis --> "_**Yelp Dataset Analysis - Findings**_"
+
